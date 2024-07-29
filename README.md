@@ -12,7 +12,7 @@
 
 
 # Dataset:
-One of these fields contains images of original signatures and the other contains images of forgerie signatures.
+One of these folders contains images of original signatures and the other contains images of forgerie signatures.
 
 # Feature Exraction Phase:
 I used vgg16 model by transfer learning technique for this phase.
